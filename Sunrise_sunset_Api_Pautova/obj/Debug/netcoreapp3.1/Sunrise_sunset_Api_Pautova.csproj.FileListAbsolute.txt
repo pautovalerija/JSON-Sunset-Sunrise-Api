@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\Sunrise_sunset_Api_Pautova\Sunrise_sunset_Api_Pautova\bin\Debug\netcoreapp3.1\Sunrise_sunset_Api_Pautova.exe
+C:\Users\opilane\source\repos\Sunrise_sunset_Api_Pautova\Sunrise_sunset_Api_Pautova\obj\Debug\netcoreapp3.1\Sunrise_sunset_Api_Pautova.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Sunrise_sunset_Api_Pautova\Sunrise_sunset_Api_Pautova\obj\Debug\netcoreapp3.1\Sunrise_sunset_Api_Pautova.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Sunrise_sunset_Api_Pautova\Sunrise_sunset_Api_Pautova\obj\Debug\netcoreapp3.1\Sunrise_sunset_Api_Pautova.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Sunrise_sunset_Api_Pautova\Sunrise_sunset_Api_Pautova\bin\Debug\netcoreapp3.1\Sunrise_sunset_Api_Pautova.deps.json
+C:\Users\opilane\source\repos\Sunrise_sunset_Api_Pautova\Sunrise_sunset_Api_Pautova\bin\Debug\netcoreapp3.1\Sunrise_sunset_Api_Pautova.runtimeconfig.json
+C:\Users\opilane\source\repos\Sunrise_sunset_Api_Pautova\Sunrise_sunset_Api_Pautova\bin\Debug\netcoreapp3.1\Sunrise_sunset_Api_Pautova.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Sunrise_sunset_Api_Pautova\Sunrise_sunset_Api_Pautova\bin\Debug\netcoreapp3.1\Sunrise_sunset_Api_Pautova.dll
+C:\Users\opilane\source\repos\Sunrise_sunset_Api_Pautova\Sunrise_sunset_Api_Pautova\bin\Debug\netcoreapp3.1\Sunrise_sunset_Api_Pautova.pdb
+C:\Users\opilane\source\repos\Sunrise_sunset_Api_Pautova\Sunrise_sunset_Api_Pautova\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\opilane\source\repos\Sunrise_sunset_Api_Pautova\Sunrise_sunset_Api_Pautova\obj\Debug\netcoreapp3.1\Sunrise_sunset_Api_Pautova.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Sunrise_sunset_Api_Pautova\Sunrise_sunset_Api_Pautova\obj\Debug\netcoreapp3.1\Sunrise_sunset_Api_Pautova.csproj.CopyComplete
+C:\Users\opilane\source\repos\Sunrise_sunset_Api_Pautova\Sunrise_sunset_Api_Pautova\obj\Debug\netcoreapp3.1\Sunrise_sunset_Api_Pautova.dll
+C:\Users\opilane\source\repos\Sunrise_sunset_Api_Pautova\Sunrise_sunset_Api_Pautova\obj\Debug\netcoreapp3.1\Sunrise_sunset_Api_Pautova.pdb
+C:\Users\opilane\source\repos\Sunrise_sunset_Api_Pautova\Sunrise_sunset_Api_Pautova\obj\Debug\netcoreapp3.1\Sunrise_sunset_Api_Pautova.genruntimeconfig.cache

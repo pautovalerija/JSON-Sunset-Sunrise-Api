@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sunrise_sunset_Api_Pautova", "Sunrise_sunset_Api_Pautova\Sunrise_sunset_Api_Pautova.csproj", "{0F9D1654-761F-4AA9-BDBE-71E091C83D56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F9D1654-761F-4AA9-BDBE-71E091C83D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9D1654-761F-4AA9-BDBE-71E091C83D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9D1654-761F-4AA9-BDBE-71E091C83D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9D1654-761F-4AA9-BDBE-71E091C83D56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A85FABF0-D570-40D2-9F2C-19F726A71ED1}
+	EndGlobalSection
+EndGlobal

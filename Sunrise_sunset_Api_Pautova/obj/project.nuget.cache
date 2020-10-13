@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Q8F1S/0//Nzn6AyunnEWdFXCEw6hE+1NKzenTN55LOwnd2uuWHpCgixCI1SioZbN7OB0kwuuojcFWWSugEqyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\Sunrise_sunset_Api_Pautova\\Sunrise_sunset_Api_Pautova\\Sunrise_sunset_Api_Pautova.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\opilane\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
